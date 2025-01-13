@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="728c4dde-59d4-4c8b-8a29-6b0250626f3a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/photo_compress.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time_zone_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/time_zone_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     "Python.chengshijizhan.executor": "Run",
     "Python.main.executor": "Run",
     "Python.nonograms.executor": "Run",
+    "Python.photo_compress.executor": "Run",
     "Python.time_zone_conversion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -52,7 +53,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.time_zone_conversion">
+  <component name="RunManager" selected="Python.photo_compress">
     <configuration name="PDF_Unlock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="便利程序" />
       <option name="ENV_FILES" value="" />
@@ -145,6 +146,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="photo_compress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="便利程序" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/photo_compress.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="time_zone_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="便利程序" />
       <option name="ENV_FILES" value="" />
@@ -170,6 +194,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.photo_compress" />
         <item itemvalue="Python.time_zone_conversion" />
         <item itemvalue="Python.PDF_compress" />
         <item itemvalue="Python.PDF_Unlock" />
@@ -218,7 +243,8 @@
       <workItem from="1736146494017" duration="1294000" />
       <workItem from="1736147799869" duration="158000" />
       <workItem from="1736752725363" duration="816000" />
-      <workItem from="1736753675830" duration="1368000" />
+      <workItem from="1736753675830" duration="1869000" />
+      <workItem from="1736762553896" duration="383000" />
     </task>
     <servers />
   </component>

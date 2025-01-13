@@ -2,7 +2,8 @@
 ```
 项目目录/
 │
-├── time_zone_conversion.py       # 主程序
+├── time_zone_conversion.py       # 时区转换程序
+├── photo_compress.py             # 照片压缩程序
 ├── readme.md                     # 使用说明
 ```
 
@@ -94,6 +95,29 @@ pip install pytz
 1. 支持用户自定义目标时区。
 2. 增加输入格式的灵活性（支持分和秒）。
 3. 提供 GUI 界面，方便用户操作。
+
+---
+
+## [照片压缩程序](photo_compress.py)
+是一个简单的 Python 程序，用于压缩照片的大小。它使用了 `Pillow` 库（Python Imaging Library 的分支）来处理图像压缩。你可以指定目标尺寸或通过调整图像质量来压缩文件大小。
+
+### 使用说明
+
+1. **安装依赖**：
+   运行以下命令安装 `Pillow` 库：
+   ```bash
+   pip install pillow
+   ```
+
+2. **运行程序**：
+   将程序保存为 `compress_image.py`，然后使用终端运行。确保替换代码中 `input_image_path` 和 `output_image_path` 为你自己的图片路径。
+
+3. **参数说明**：
+   - `quality`：控制输出图像的质量（1-100）。值越低，压缩越强，文件越小。
+   - `max_size`：用于限制图片的最大宽高（例如 `(800, 800)` 表示限制图片的最大宽和高为 800 像素）。
+
+4. **输出文件**：
+   压缩后的图片会保存在指定的 `output_image_path` 路径下。
 
 ---
 
