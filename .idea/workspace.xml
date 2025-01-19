@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="728c4dde-59d4-4c8b-8a29-6b0250626f3a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/photo_compress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDF_compress.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDF_compress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compressed_1.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +50,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.photo_compress">
+  <component name="RunManager" selected="Python.PDF_compress">
     <configuration name="PDF_Unlock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="便利程序" />
       <option name="ENV_FILES" value="" />
@@ -194,9 +195,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PDF_compress" />
         <item itemvalue="Python.photo_compress" />
         <item itemvalue="Python.time_zone_conversion" />
-        <item itemvalue="Python.PDF_compress" />
         <item itemvalue="Python.PDF_Unlock" />
         <item itemvalue="Python.chengshijizhan" />
       </list>
@@ -244,7 +245,9 @@
       <workItem from="1736147799869" duration="158000" />
       <workItem from="1736752725363" duration="816000" />
       <workItem from="1736753675830" duration="1869000" />
-      <workItem from="1736762553896" duration="383000" />
+      <workItem from="1736762553896" duration="3440000" />
+      <workItem from="1736995783834" duration="140000" />
+      <workItem from="1737285039373" duration="884000" />
     </task>
     <servers />
   </component>
@@ -255,9 +258,11 @@
     <SUITE FILE_PATH="coverage/$time_zone_conversion.coverage" NAME="time_zone_conversion 覆盖结果" MODIFIED="1736753396335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$PDF_Unlock.coverage" NAME="PDF_Unlock 覆盖结果" MODIFIED="1733644060224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Auxiliary_Programs$time_zone_conversion.coverage" NAME="time_zone_conversion 覆盖结果" MODIFIED="1736754997541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Auxiliary_Programs$PDF_compress.coverage" NAME="PDF_compress 覆盖结果" MODIFIED="1736995837639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$PDF_compress.coverage" NAME="PDF_compress 覆盖结果" MODIFIED="1736146922018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$main.coverage" NAME="main 覆盖结果" MODIFIED="1719701783604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$nonograms.coverage" NAME="nonograms 覆盖结果" MODIFIED="1731678581694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$chengshijizhan.coverage" NAME="chengshijizhan 覆盖结果" MODIFIED="1721144820978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Auxiliary_Programs$photo_compress.coverage" NAME="photo_compress 覆盖结果" MODIFIED="1736762917704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

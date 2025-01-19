@@ -38,7 +38,7 @@ def compress_pdf(input_file, output_file, quality='screen'):
 
 
 if __name__ == "__main__":
-    input_pdf = "1.pdf"  # 替换为你的 PDF 文件路径
+    input_pdf = "高端会务.pdf"  # 替换为你的 PDF 文件路径
     output_pdf = "compressed_1.pdf"  # 输出压缩后的文件路径
     quality = "printer"  # 可选 'screen', 'ebook', 'printer', 'prepress'
 
