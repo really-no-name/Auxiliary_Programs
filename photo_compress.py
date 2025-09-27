@@ -32,8 +32,8 @@ def compress_image(input_path, output_path, quality=85, max_size=None):
 
 if __name__ == "__main__":
     # Example usage
-    input_image_path = "1.png"  # Replace with your input image path
-    output_image_path = "2.png"  # Replace with your desired output path
+    input_image_path = "ID_3.jpeg"  # Replace with your input image path
+    output_image_path = "ID_3压缩.jpeg"  # Replace with your desired output path
 
     # Compress with quality reduction only
     compress_image(input_image_path, output_image_path, quality=70)

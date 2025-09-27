@@ -4,6 +4,7 @@
 │
 ├── time_zone_conversion.py       # 时区转换程序
 ├── photo_compress.py             # 照片压缩程序
+├── puzzle_words.py               # 拼单词解题程序
 ├── readme.md                     # 使用说明
 ```
 
