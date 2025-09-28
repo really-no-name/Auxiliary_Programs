@@ -2,6 +2,8 @@
 ```
 项目目录/
 │
+├── sequence_variation.py         # 宝洁在线测评题型1——水管翻转题
+├── solve_equ.py                  # 宝洁在线测评题型2——数字运算题
 ├── time_zone_conversion.py       # 时区转换程序
 ├── photo_compress.py             # 照片压缩程序
 ├── puzzle_words.py               # 拼单词解题程序
