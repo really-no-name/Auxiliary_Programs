@@ -3,8 +3,9 @@
 
 from PyPDF2 import PdfReader, PdfWriter
 
-input_pdf = "硕士成绩.pdf"
-output_pdf = "1.pdf"
+# 建议使用绝对路径
+input_pdf = "/Users/Personal_File/Auxiliary_Programs/3205内部审计师指南.pdf"
+output_pdf = "/Users/Personal_File/Auxiliary_Programs/1.pdf"
 
 reader = PdfReader(input_pdf)
 writer = PdfWriter()
