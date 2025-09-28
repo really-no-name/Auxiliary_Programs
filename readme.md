@@ -8,12 +8,18 @@
 ├── sequence_variation.py         # 宝洁在线测评题型1——水管翻转题
 ├── solve_equ.py                  # 宝洁在线测评题型2——数字运算题
 ├── time_zone_conversion.py       # 时区转换程序
+│
+│
 ├── readme.md                     # 使用说明
 ```
 
 ---
+## [PDF解锁](Code/PDF_Unlock.py)
+用于解锁需要密码的PDF文件
 
-## [时区转换程序](time_zone_conversion.py)
+请将程序及需要解锁的文件放在同一目录下，或使用绝对路径
+
+## [时区转换程序](Code/time_zone_conversion.py)
 
 ### 简介
 本程序是一个基于 Python 的时区转换工具，用于将一个城市的时间转换为另一个城市的时间。例如，输入冰岛的时间（例如早上 8 点），程序将计算并返回对应的北京时间。
@@ -102,7 +108,7 @@ pip install pytz
 
 ---
 
-## [照片压缩程序](photo_compress.py)
+## [照片压缩程序](Code/photo_compress.py)
 是一个简单的 Python 程序，用于压缩照片的大小。它使用了 `Pillow` 库（Python Imaging Library 的分支）来处理图像压缩。你可以指定目标尺寸或通过调整图像质量来压缩文件大小。
 
 ### 使用说明
