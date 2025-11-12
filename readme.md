@@ -78,7 +78,26 @@ python pdf_compress.py large.pdf small.pdf -q screen --silent
 ## [PDF解锁](Code/PDF_Unlock.py)
 用于解锁需要密码的PDF文件
 
-请将程序及需要解锁的文件放在同一目录下，或使用绝对路径
+请使用绝对路径
+
+### 基本用法（使用空密码）
+
+```bash
+# 尝试用空密码解锁
+python pdf_Unlock.py encrypted.pdf unlocked.pdf
+```
+
+
+
+### 使用已知密码
+
+```bash
+# 使用已知密码解锁
+python pdf_unlock.py encrypted.pdf unlocked.pdf -p "mypassword"
+
+# 或使用长选项
+python pdf_unlock.py encrypted.pdf unlocked.pdf --password "mypassword"
+```
 
 ## [时区转换程序](Code/time_zone_conversion.py)
 
