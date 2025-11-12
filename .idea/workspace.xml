@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="728c4dde-59d4-4c8b-8a29-6b0250626f3a" name="更改" comment="refactor">
+      <change beforePath="$PROJECT_DIR$/.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/.DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/PDF_Unlock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/PDF_Unlock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/PDF_compress.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/PDF_compress.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,33 +39,33 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.PDF_Unlock.executor": "Run",
-    "Python.PDF_compress.executor": "Run",
-    "Python.chengshijizhan.executor": "Run",
-    "Python.dictionary_check.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.nonograms.executor": "Run",
-    "Python.photo_compress.executor": "Run",
-    "Python.puzzle_words.executor": "Run",
-    "Python.sequence_variation.executor": "Run",
-    "Python.solve_equ.executor": "Run",
-    "Python.solve_euq.executor": "Run",
-    "Python.time_zone_conversion.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/Personal_File/Auxiliary_Programs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.fileTypes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.PDF_Unlock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PDF_compress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chengshijizhan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nonograms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.photo_compress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.puzzle_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sequence_variation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_equ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_euq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time_zone_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Personal_File/Auxiliary_Programs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Code" />
@@ -277,6 +281,12 @@
       <workItem from="1757763924619" duration="601000" />
       <workItem from="1757989667908" duration="556000" />
       <workItem from="1758955664136" duration="8502000" />
+      <workItem from="1759047110654" duration="1572000" />
+      <workItem from="1759050965413" duration="2562000" />
+      <workItem from="1759203635400" duration="520000" />
+      <workItem from="1760449623056" duration="893000" />
+      <workItem from="1762930558975" duration="14000" />
+      <workItem from="1762933054417" duration="1746000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore">
       <option name="closed" value="true" />

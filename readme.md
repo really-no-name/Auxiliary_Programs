@@ -2,6 +2,7 @@
 ```
 项目目录/
 │
+├── PDF_compress.py               # PDF压缩
 ├── PDF_Unlock.py                 # PDF解锁
 ├── photo_compress.py             # 照片压缩程序
 ├── puzzle_words.py               # 拼单词解题程序
@@ -12,6 +13,66 @@
 │
 ├── readme.md                     # 使用说明
 ```
+
+---
+## [PDF压缩](Code/PDF_compress.py)
+用于压缩较大的PDF文件
+
+建议使用绝对路径
+
+### 基本用法：
+```bash
+# 压缩单个PDF文件
+python pdf_compress.py input.pdf output.pdf
+```
+
+### 指定压缩质量
+```bash
+# 使用ebook质量（适合电子书阅读）
+python pdf_compress.py document.pdf compressed.pdf -q ebook
+
+# 使用printer质量（适合打印）
+python pdf_compress.py document.pdf compressed.pdf -q printer
+
+# 使用prepress质量（最高质量，适合印刷）
+python pdf_compress.py document.pdf compressed.pdf -q prepress
+```
+
+
+### 批量压缩脚本示例
+创建`batch_compress.sh`脚本
+```bash
+#!/bin/bash
+# 批量压缩当前目录下所有PDF文件
+
+for pdf_file in *.pdf; do
+    if [ -f "$pdf_file" ]; then
+        output_file="compressed_${pdf_file}"
+        echo "正在压缩: $pdf_file -> $output_file"
+        python pdf_compress.py "$pdf_file" "$output_file" -q ebook
+        echo "----------------------------------------"
+    fi
+done
+```
+
+### Windows 批量处理
+创建`batch_compress.bat`脚本
+```
+@echo off
+for %%i in (*.pdf) do (
+    echo 正在压缩: %%i
+    python pdf_compress.py "%%i" "compressed_%%i" -q ebook
+    echo ----------------------------------------
+)
+pause
+```
+
+
+### 静默模式（适合脚本调用）
+```bash
+python pdf_compress.py large.pdf small.pdf -q screen --silent
+```
+
 
 ---
 ## [PDF解锁](Code/PDF_Unlock.py)
