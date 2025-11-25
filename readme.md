@@ -8,6 +8,7 @@
 ├── puzzle_words.py               # 拼单词解题程序
 ├── sequence_variation.py         # 宝洁在线测评题型1——水管翻转题
 ├── solve_equ.py                  # 宝洁在线测评题型2——数字运算题
+├── text_compare.py               # 文字差异对比
 ├── time_zone_conversion.py       # 时区转换程序
 │
 │
@@ -57,7 +58,7 @@ done
 
 ### Windows 批量处理
 创建`batch_compress.bat`脚本
-```
+```bash
 @echo off
 for %%i in (*.pdf) do (
     echo 正在压缩: %%i
