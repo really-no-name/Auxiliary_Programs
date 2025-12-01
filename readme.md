@@ -212,5 +212,14 @@ pip install pytz
 
 ---
 
+## [文档对比](Code/text_compare.py)
+
+用于对比两个txt文本文件中的文字内容是否一致。
+
+PS： 不考虑所有非文字字符、空格、换行等。
+
+
+
+
 ### 作者
 此程序由 Bolun Xu 开发。。

@@ -1,9 +1,0 @@
-NVMe控制框：OceanStor Dorado 5300 V6(2U,双控,NVME,交流\240V高压直流,256GB 缓存,8*1Gb ETH,8*10Gb ETH(含多模SFP+),25*Palm,SPE62C0225)。
-可扩展接口模块：2*4端口 SmartIO I/O模块(SFP+,10Gb ETH)。
-NVMe硬盘组件：8*3.84TB SSD NVMe Palm硬盘单元(7")。
-安装材料：16*光跳线-DLC/PC-DLC/PC-多模-10m-A1a.2-2mm-42mm DLC-OM3弯曲不敏感。
-软件：SAN高级包许可(含DeviceManager,Thin,Migration,Snap,Replication,Clone,QoS,Erase,DME IQ,UltraPath,Virtualization,Metro,CDP)；NAS高级包许可(含DeviceManager,CIFS,NFS,NDMP,Thin,Snap,Replication,Clone,QoS,Erase,Metro,CDP,LOCK,DME IQ,Audit,DNS)。
-服务：SAN高级包许可(含DeviceManager,Thin,Migration,Snap,Replication,Clone,QoS,Erase,DME IQ,UltraPath,Virtualization,Metro,CDP)_Hi-Care应用软件升级支持服务 OceanStor Dorado 5300 V6 高级包许可_36月；NAS高级包许可(含DeviceManager,CIFS,NFS,NDMP,Thin,Snap,Replication,Clone,QoS,Erase,Metro,CDP,LOCK,DME IQ,Audit,DNS)_Hi-Care应用软件升级支持服务 OceanStor Dorado 5300 V6 NAS高级包许可_36月；OceanStor Dorado 5300 V6(2U,双控,NVME,交流\240V高压直流,256GB 缓存,8*1Gb ETH,8*10Gb ETH(含多模SFP+),25*Palm,SPE62C0225)_介质保留服务-SSD(含HSSD) 210GB-380GB_36月；3.84TB SSD NVMe Palm硬盘单元(7")_介质保留服务-SSD(含HSSD) 3840GB-4000GB_36月。
-固态存储规划设计服务(中端-控制框/引擎数量1台；)。
-固态存储系统部署与调测服务(中端-控制框/引擎数量1台；)。
-固态存储验收测试服务(中端-控制框/引擎数量1台；)。
